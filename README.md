@@ -1,1 +1,1 @@
-# Примеры паттернов проектирования на языке Dart
+# OOP design patterns study with Dart
